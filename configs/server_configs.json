@@ -1,4 +1,5 @@
 {
     "port": 2000,
-    "player_limit": 20
+    "player_limit": 20,
+    "online_mode": "true"
 }
