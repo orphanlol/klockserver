@@ -1,4 +1,7 @@
 <div align='center'>
 
 # klockserver
-### Coming Soon!
+### Coming... NEVER.
+#### SHIT WAS FAKE, FUCKING SKIDDED, AND MORE.
+
+##### CHATGPT LOOKIN ASS
