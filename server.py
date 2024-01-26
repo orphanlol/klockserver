@@ -1,9 +1,9 @@
 import socket
 from ast import literal_eval
 
-# Klockcraft Java Edition 1.20 Server
+# you have no father
 
-print('[STARTING] Starting Server...')
+print('[You] have no parents')
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_configs = literal_eval(open('configs/server_configs.json', 'r').read())
 world_configs = literal_eval(open('configs/world_configs.json', 'r').read())
@@ -18,7 +18,7 @@ else: online_mode = False
 
 s.bind((host, port))
 s.listen(player_limit)
-print(f'[STARTED] Started Server! Hosting on {host}, the server port is {port}.')
+print(f'[SKIDDED] Skidded from ChatGPT! Hosting on your's mom's {host}, the server port is {port}.')
 
 players_online = 0
 
